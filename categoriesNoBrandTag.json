@@ -298,13 +298,6 @@
             "URL": "/category/newsletter"
         },
         {
-            "id": "other",
-            "image_url": "",
-            "name": "Other",
-            "type": "category",
-            "URL": "/category/other"
-        },
-        {
             "id": "photo_image_editor",
             "image_url": "",
             "name": "Photo & Image Editor",
@@ -380,6 +373,13 @@
             "name": "Web3",
             "type": "category",
             "URL": "/category/web3"
+        },
+        {
+            "id": "other",
+            "image_url": "",
+            "name": "Other",
+            "type": "category",
+            "URL": "/category/other"
         }
     ]
 }
