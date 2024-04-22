@@ -1,0 +1,56 @@
+  [{
+                    "website": "https:\/\/www.aurkai.io",
+                    "collected_count": 2,
+                    "description": "Enhance every pixel with clarity and detail.",
+                    "handle": "aurk",
+                    "id": 9548,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373329735376952.jpg",
+                    "month_visited_count": 6963,
+                    "name": "Aurk",
+                    "user_collected": 0,
+                    "what_is_summary": "Enhance every pixel with clarity and detail.",
+                    "traffic": {
+                        "top_region": "GB",
+                        "top_region_value": 0.5159963602769577
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-product-description-generator",
+                            "name": "AI Product Description Generator",
+                            "tool_count": 1706
+                        },
+                        {
+                            "handle": "ai-image-enhancer",
+                            "name": "AI Image Enhancer",
+                            "tool_count": 163
+                        },
+                        {
+                            "handle": "ai-photo-enhancer",
+                            "name": "AI Photo Enhancer",
+                            "tool_count": 193
+                        },
+                        {
+                            "handle": "ai-video-enhancer",
+                            "name": "AI Video Enhancer",
+                            "tool_count": 55
+                        },
+                        {
+                            "handle": "ai-audio-enhancer",
+                            "name": "AI Audio Enhancer",
+                            "tool_count": 86
+                        },
+                        {
+                            "handle": "advertising-assistant",
+                            "name": "AI Advertising Assistant",
+                            "tool_count": 1955
+                        },
+                        {
+                            "handle": "ai-art-generator",
+                            "name": "AI Art Generator",
+                            "tool_count": 679
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }
+]
