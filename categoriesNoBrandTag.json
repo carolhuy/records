@@ -46,13 +46,6 @@
             "URL": "/category/ai_art_generator"
         },
         {
-            "id": "ai_art_generator",
-            "image_url": "",
-            "name": "AI Art Generator",
-            "type": "category",
-            "URL": "/category/ai_art_generator"
-        },
-        {
             "id": "ai_audio_enhancer",
             "image_url": "",
             "name": "AI Audio Enhancer",
