@@ -1,4 +1,4 @@
-  {
+[  {
                     "website": "https:\/\/jetcounter.co",
                     "collected_count": 0,
                     "description": "AI-based object counting app",
@@ -58,3 +58,4 @@
                     "is_recommend_now": 0,
                     "is_noticeable": 2
                 }
+]
