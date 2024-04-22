@@ -1,0 +1,47 @@
+[
+     {
+                    "website": "https:\/\/pixai.art",
+                    "collected_count": 7,
+                    "description": "Create stunning anime art effortlessly.",
+                    "handle": "pixai-art",
+                    "id": 9559,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373468047797453.jpg",
+                    "month_visited_count": 8000981,
+                    "name": "PixAI - AI Art Generator",
+                    "user_collected": 0,
+                    "what_is_summary": "Create stunning anime art effortlessly.",
+                    "traffic": {
+                        "top_region": "US",
+                        "top_region_value": 0.22622245118134712
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-content-generator",
+                            "name": "AI Content Generator",
+                            "tool_count": 1957
+                        },
+                        {
+                            "handle": "ai-manga-comic",
+                            "name": "AI Manga & Comic",
+                            "tool_count": 17
+                        },
+                        {
+                            "handle": "ai-anime-cartoon-generator",
+                            "name": "AI Anime & Cartoon Generator",
+                            "tool_count": 67
+                        },
+                        {
+                            "handle": "ai-art-generator",
+                            "name": "AI Art Generator",
+                            "tool_count": 679
+                        },
+                        {
+                            "handle": "ai-anime-ai-art",
+                            "name": "AI Anime Art",
+                            "tool_count": 71
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }
+]
