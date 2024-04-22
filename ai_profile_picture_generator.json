@@ -1,0 +1,62 @@
+[
+    {
+                    "website": "https:\/\/epicselfie.app",
+                    "collected_count": 1,
+                    "description": "Transform your selfies into epic images.",
+                    "handle": "epic-selfie",
+                    "id": 9547,
+                    "image": null,
+                    "month_visited_count": 5060,
+                    "name": "Epic Selfie",
+                    "user_collected": 0,
+                    "what_is_summary": "Transform your selfies into epic images.",
+                    "traffic": {
+                        "top_region": "US",
+                        "top_region_value": 0.6302321055061587
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-photo-image-generator",
+                            "name": "AI Photo & Image Generator",
+                            "tool_count": 748
+                        },
+                        {
+                            "handle": "ai-avatar-generator",
+                            "name": "AI Avatar Generator",
+                            "tool_count": 195
+                        },
+                        {
+                            "handle": "ai-profile-picture-generator",
+                            "name": "AI Profile Picture Generator",
+                            "tool_count": 263
+                        },
+                        {
+                            "handle": "ai-selfie-portrait",
+                            "name": "AI Selfie & Portrait",
+                            "tool_count": 219
+                        },
+                        {
+                            "handle": "image-to-image",
+                            "name": "Image to Image",
+                            "tool_count": 224
+                        },
+                        {
+                            "handle": "ai-image-recognition",
+                            "name": "AI Image Recognition",
+                            "tool_count": 122
+                        },
+                        {
+                            "handle": "ai-face-swap-generator",
+                            "name": "AI Face Swap Generator",
+                            "tool_count": 37
+                        },
+                        {
+                            "handle": "ai-art-generator",
+                            "name": "AI Art Generator",
+                            "tool_count": 679
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }
+]
