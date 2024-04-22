@@ -1,0 +1,60 @@
+  {
+                    "website": "https:\/\/jetcounter.co",
+                    "collected_count": 0,
+                    "description": "AI-based object counting app",
+                    "handle": "jetcounter",
+                    "id": 9551,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373330774826157.jpg",
+                    "month_visited_count": 0,
+                    "name": "Jetcounter",
+                    "user_collected": 0,
+                    "what_is_summary": "AI-based object counting app",
+                    "traffic": {
+                        "top_region": null,
+                        "top_region_value": null
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-image-recognition",
+                            "name": "AI Image Recognition",
+                            "tool_count": 122
+                        },
+                        {
+                            "handle": "ai-app-builder",
+                            "name": "AI App Builder",
+                            "tool_count": 393
+                        },
+                        {
+                            "handle": "ai-detector-1",
+                            "name": "AI Detector",
+                            "tool_count": 92
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }, 
+{
+                    "website": "https:\/\/apps.apple.com\/app\/id6473756867",
+                    "collected_count": 0,
+                    "description": "Unveil the stories in your child's drawings using AI.",
+                    "handle": "craion",
+                    "id": 9557,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373332373245342.jpg",
+                    "month_visited_count": 0,
+                    "name": "crAion",
+                    "user_collected": 0,
+                    "what_is_summary": "Unveil the stories in your child's drawings using AI.",
+                    "traffic": {
+                        "top_region": "US",
+                        "top_region_value": 0.24060183158633505
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-app-builder",
+                            "name": "AI App Builder",
+                            "tool_count": 393
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }
