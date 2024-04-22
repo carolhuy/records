@@ -151,13 +151,6 @@
             "URL": "/category/ai_image_recognition"
         },
         {
-            "id": "ai_image_recognition",
-            "image_url": "",
-            "name": "AI Image Recognition",
-            "type": "category",
-            "URL": "/category/ai_image_recognition"
-        },
-        {
             "id": "ai_manga_comic",
             "image_url": "",
             "name": "AI Manga & Comic",
