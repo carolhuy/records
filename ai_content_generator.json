@@ -1,0 +1,137 @@
+[
+  {
+                    "website": "https:\/\/pixai.art",
+                    "collected_count": 7,
+                    "description": "Create stunning anime art effortlessly.",
+                    "handle": "pixai-art",
+                    "id": 9559,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373468047797453.jpg",
+                    "month_visited_count": 8000981,
+                    "name": "PixAI - AI Art Generator",
+                    "user_collected": 0,
+                    "what_is_summary": "Create stunning anime art effortlessly.",
+                    "traffic": {
+                        "top_region": "US",
+                        "top_region_value": 0.22622245118134712
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-content-generator",
+                            "name": "AI Content Generator",
+                            "tool_count": 1957
+                        },
+                        {
+                            "handle": "ai-manga-comic",
+                            "name": "AI Manga & Comic",
+                            "tool_count": 17
+                        },
+                        {
+                            "handle": "ai-anime-cartoon-generator",
+                            "name": "AI Anime & Cartoon Generator",
+                            "tool_count": 67
+                        },
+                        {
+                            "handle": "ai-art-generator",
+                            "name": "AI Art Generator",
+                            "tool_count": 679
+                        },
+                        {
+                            "handle": "ai-anime-ai-art",
+                            "name": "AI Anime Art",
+                            "tool_count": 71
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                },
+        {
+                    "website": "https:\/\/riseofmachine.com",
+                    "collected_count": 2,
+                    "description": "Curated AI tools for makers.",
+                    "handle": "rise-of-machine",
+                    "id": 9549,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373330471388108.jpg",
+                    "month_visited_count": 0,
+                    "name": "Rise of Machine",
+                    "user_collected": 0,
+                    "what_is_summary": "Curated AI tools for makers.",
+                    "traffic": {
+                        "top_region": "BR",
+                        "top_region_value": 1
+                    },
+                    "categories": [
+                        {
+                            "handle": "writing-assistants",
+                            "name": "Writing Assistants",
+                            "tool_count": 713
+                        },
+                        {
+                            "handle": "ai-content-generator",
+                            "name": "AI Content Generator",
+                            "tool_count": 1957
+                        },
+                        {
+                            "handle": "text-to-image",
+                            "name": "Text to Image",
+                            "tool_count": 235
+                        },
+                        {
+                            "handle": "ai-photo-image-generator",
+                            "name": "AI Photo & Image Generator",
+                            "tool_count": 748
+                        },
+                        {
+                            "handle": "photo-image-editor",
+                            "name": "Photo & Image Editor",
+                            "tool_count": 265
+                        },
+                        {
+                            "handle": "image-to-image",
+                            "name": "Image to Image",
+                            "tool_count": 224
+                        },
+                        {
+                            "handle": "copywriting",
+                            "name": "Copywriting",
+                            "tool_count": 254
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                },
+       {
+                    "website": "https:\/\/babystoryai.com",
+                    "collected_count": 1,
+                    "description": "Personalized audiobooks for children using AI technology.",
+                    "handle": "babystoryai",
+                    "id": 9539,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373327651870697.jpg",
+                    "month_visited_count": 35800,
+                    "name": "BabyStoryAI",
+                    "user_collected": 0,
+                    "what_is_summary": "Personalized audiobooks for children using AI technology.",
+                    "traffic": {
+                        "top_region": "GB",
+                        "top_region_value": 0.21458842045502255
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-story-writing",
+                            "name": "AI Story Writing",
+                            "tool_count": 185
+                        },
+                        {
+                            "handle": "ai-book-writing",
+                            "name": "AI Book Writing",
+                            "tool_count": 120
+                        },
+                        {
+                            "handle": "ai-content-generator",
+                            "name": "AI Content Generator",
+                            "tool_count": 1957
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }
+]
