@@ -1,0 +1,131 @@
+[{
+                    "website": "https:\/\/www.getinboxzero.com",
+                    "collected_count": 2,
+                    "description": "Clean up your inbox in minutes.",
+                    "handle": "inbox-zero",
+                    "id": 9546,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373329758358343.jpg",
+                    "month_visited_count": 205916,
+                    "name": "Inbox Zero",
+                    "user_collected": 0,
+                    "what_is_summary": "Clean up your inbox in minutes.",
+                    "traffic": {
+                        "top_region": "GB",
+                        "top_region_value": 0.27990627710715915
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-analytics-assistant",
+                            "name": "AI Analytics Assistant",
+                            "tool_count": 528
+                        },
+                        {
+                            "handle": "ai-reply-assistant",
+                            "name": "AI Reply Assistant",
+                            "tool_count": 378
+                        },
+                        {
+                            "handle": "ai-email-assistant",
+                            "name": "AI Email Assistant",
+                            "tool_count": 282
+                        },
+                        {
+                            "handle": "ai-response-generator",
+                            "name": "AI Response Generator",
+                            "tool_count": 450
+                        },
+                        {
+                            "handle": "ai-chatbot",
+                            "name": "AI Chatbot",
+                            "tool_count": 1478
+                        },
+                        {
+                            "handle": "newsletter",
+                            "name": "Newsletter",
+                            "tool_count": 44
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                },
+         {
+                    "website": "https:\/\/limnr.com",
+                    "collected_count": 1,
+                    "description": "Create personalized photorealistic AI photos",
+                    "handle": "limnr-ai",
+                    "id": 9555,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373331765132513.jpg",
+                    "month_visited_count": 0,
+                    "name": "Limnr AI",
+                    "user_collected": 0,
+                    "what_is_summary": "Create personalized photorealistic AI photos",
+                    "traffic": {
+                        "top_region": "IN",
+                        "top_region_value": 0.8330074231634816
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-photo-image-generator",
+                            "name": "AI Photo & Image Generator",
+                            "tool_count": 748
+                        },
+                        {
+                            "handle": "ai-art-generator",
+                            "name": "AI Art Generator",
+                            "tool_count": 679
+                        },
+                        {
+                            "handle": "ai-design-generator",
+                            "name": "AI Design Generator",
+                            "tool_count": 314
+                        },
+                        {
+                            "handle": "ai-graphic-design",
+                            "name": "AI Graphic Design",
+                            "tool_count": 214
+                        },
+                        {
+                            "handle": "design-assistant",
+                            "name": "Design Assistant",
+                            "tool_count": 192
+                        },
+                        {
+                            "handle": "text-to-image",
+                            "name": "Text to Image",
+                            "tool_count": 235
+                        },
+                        {
+                            "handle": "photo-image-editor",
+                            "name": "Photo & Image Editor",
+                            "tool_count": 265
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                },
+                {
+                    "website": "https:\/\/www.answerflowai.com",
+                    "collected_count": 3,
+                    "description": "Lifetime License for Unlimited ChatGPT Bots",
+                    "handle": "answerflow-ai",
+                    "id": 9552,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373330880169320.jpg",
+                    "month_visited_count": 6950,
+                    "name": "AnswerFlow AI",
+                    "user_collected": 0,
+                    "what_is_summary": "Lifetime License for Unlimited ChatGPT Bots",
+                    "traffic": {
+                        "top_region": "CA",
+                        "top_region_value": 0.2478943434734684
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-chatbot",
+                            "name": "AI Chatbot",
+                            "tool_count": 1478
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }
+]
