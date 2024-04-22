@@ -1,0 +1,27 @@
+[
+          {
+                    "website": "https:\/\/dataku.ai?ref=toolify",
+                    "collected_count": 3,
+                    "description": "Effortlessly convert unstructured texts into structured data.",
+                    "handle": "dataku",
+                    "id": 9560,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170384242696413566.jpg",
+                    "month_visited_count": 0,
+                    "name": "Dataku",
+                    "user_collected": 0,
+                    "what_is_summary": "Effortlessly convert unstructured texts into structured data.",
+                    "traffic": {
+                        "top_region": "DE",
+                        "top_region_value": 0.13779729215125583
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-document-extraction",
+                            "name": "AI Document Extraction",
+                            "tool_count": 111
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 1
+                }
+]
