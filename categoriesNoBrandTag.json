@@ -347,13 +347,6 @@
             "URL": "/category/translate"
         },
         {
-            "id": "translate",
-            "image_url": "",
-            "name": "Translate",
-            "type": "category",
-            "URL": "/category/translate"
-        },
-        {
             "id": "web3",
             "image_url": "",
             "name": "Web3",
