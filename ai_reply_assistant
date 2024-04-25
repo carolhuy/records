@@ -1,0 +1,92 @@
+[
+ {
+                    "website": "https:\/\/www.getinboxzero.com",
+                    "collected_count": 2,
+                    "description": "Clean up your inbox in minutes.",
+                    "handle": "inbox-zero",
+                    "id": 9546,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373329758358343.jpg",
+                    "month_visited_count": 205916,
+                    "name": "Inbox Zero",
+                    "user_collected": 0,
+                    "what_is_summary": "Clean up your inbox in minutes.",
+                    "traffic": {
+                        "top_region": "GB",
+                        "top_region_value": 0.27990627710715915
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-analytics-assistant",
+                            "name": "AI Analytics Assistant",
+                            "tool_count": 528
+                        },
+                        {
+                            "handle": "ai-reply-assistant",
+                            "name": "AI Reply Assistant",
+                            "tool_count": 378
+                        },
+                        {
+                            "handle": "ai-email-assistant",
+                            "name": "AI Email Assistant",
+                            "tool_count": 282
+                        },
+                        {
+                            "handle": "ai-response-generator",
+                            "name": "AI Response Generator",
+                            "tool_count": 450
+                        },
+                        {
+                            "handle": "ai-chatbot",
+                            "name": "AI Chatbot",
+                            "tool_count": 1478
+                        },
+                        {
+                            "handle": "newsletter",
+                            "name": "Newsletter",
+                            "tool_count": 44
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                },
+   {
+                    "website": "https:\/\/asktosell.com",
+                    "collected_count": 3,
+                    "description": "Automate sales with autonomous AI agents.",
+                    "handle": "asktosell",
+                    "id": 9542,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373328724806520.jpg",
+                    "month_visited_count": 3169,
+                    "name": "AskToSell",
+                    "user_collected": 0,
+                    "what_is_summary": "Automate sales with autonomous AI agents.",
+                    "traffic": {
+                        "top_region": "CA",
+                        "top_region_value": 0.2084954550883754
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-product-description-generator",
+                            "name": "AI Product Description Generator",
+                            "tool_count": 1706
+                        },
+                        {
+                            "handle": "sales-assistant",
+                            "name": "Sales Assistant",
+                            "tool_count": 211
+                        },
+                        {
+                            "handle": "ai-reply-assistant",
+                            "name": "AI Reply Assistant",
+                            "tool_count": 378
+                        },
+                        {
+                            "handle": "ai-response-generator",
+                            "name": "AI Response Generator",
+                            "tool_count": 450
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }
+]
