@@ -1,0 +1,52 @@
+[
+     {
+                    "website": "https:\/\/www.getinboxzero.com",
+                    "collected_count": 2,
+                    "description": "Clean up your inbox in minutes.",
+                    "handle": "inbox-zero",
+                    "id": 9546,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373329758358343.jpg",
+                    "month_visited_count": 205916,
+                    "name": "Inbox Zero",
+                    "user_collected": 0,
+                    "what_is_summary": "Clean up your inbox in minutes.",
+                    "traffic": {
+                        "top_region": "GB",
+                        "top_region_value": 0.27990627710715915
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-analytics-assistant",
+                            "name": "AI Analytics Assistant",
+                            "tool_count": 528
+                        },
+                        {
+                            "handle": "ai-reply-assistant",
+                            "name": "AI Reply Assistant",
+                            "tool_count": 378
+                        },
+                        {
+                            "handle": "ai-email-assistant",
+                            "name": "AI Email Assistant",
+                            "tool_count": 282
+                        },
+                        {
+                            "handle": "ai-response-generator",
+                            "name": "AI Response Generator",
+                            "tool_count": 450
+                        },
+                        {
+                            "handle": "ai-chatbot",
+                            "name": "AI Chatbot",
+                            "tool_count": 1478
+                        },
+                        {
+                            "handle": "newsletter",
+                            "name": "Newsletter",
+                            "tool_count": 44
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }
+]
