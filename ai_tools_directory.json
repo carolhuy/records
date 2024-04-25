@@ -1,0 +1,37 @@
+[
+        {
+                    "website": "https:\/\/www.bafcloud.com",
+                    "collected_count": 0,
+                    "description": "Simplify AI development with BafCloud",
+                    "handle": "bafcloud",
+                    "id": 9553,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373331259782508.jpg",
+                    "month_visited_count": 0,
+                    "name": "BafCloud",
+                    "user_collected": 0,
+                    "what_is_summary": "Simplify AI development with BafCloud",
+                    "traffic": {
+                        "top_region": "DE",
+                        "top_region_value": 0.6947501550426931
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-developer-tools",
+                            "name": "AI Developer Tools",
+                            "tool_count": 546
+                        },
+                        {
+                            "handle": "large-language-models-(llms)",
+                            "name": "Large Language Models (LLMs)",
+                            "tool_count": 877
+                        },
+                        {
+                            "handle": "ai-tools-directory",
+                            "name": "AI Tools Directory",
+                            "tool_count": 574
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }
+]
