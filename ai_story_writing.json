@@ -1,0 +1,37 @@
+[
+          {
+                    "website": "https:\/\/babystoryai.com",
+                    "collected_count": 1,
+                    "description": "Personalized audiobooks for children using AI technology.",
+                    "handle": "babystoryai",
+                    "id": 9539,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373327651870697.jpg",
+                    "month_visited_count": 35800,
+                    "name": "BabyStoryAI",
+                    "user_collected": 0,
+                    "what_is_summary": "Personalized audiobooks for children using AI technology.",
+                    "traffic": {
+                        "top_region": "GB",
+                        "top_region_value": 0.21458842045502255
+                    },
+                    "categories": [
+                        {
+                            "handle": "ai-story-writing",
+                            "name": "AI Story Writing",
+                            "tool_count": 185
+                        },
+                        {
+                            "handle": "ai-book-writing",
+                            "name": "AI Book Writing",
+                            "tool_count": 120
+                        },
+                        {
+                            "handle": "ai-content-generator",
+                            "name": "AI Content Generator",
+                            "tool_count": 1957
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }
+]
