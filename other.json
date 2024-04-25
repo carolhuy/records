@@ -1,0 +1,27 @@
+[
+     {
+                    "website": "https:\/\/linkre.thenurim.life",
+                    "collected_count": 1,
+                    "description": "Explore and organize records easily.",
+                    "handle": "link-re",
+                    "id": 9558,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373332072289676.jpg",
+                    "month_visited_count": 0,
+                    "name": "Link:RE",
+                    "user_collected": 0,
+                    "what_is_summary": "Explore and organize records easily.",
+                    "traffic": {
+                        "top_region": "US",
+                        "top_region_value": 0.8367423287153782
+                    },
+                    "categories": [
+                        {
+                            "handle": "other",
+                            "name": "Other",
+                            "tool_count": 810
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }
+]
