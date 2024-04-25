@@ -1,0 +1,62 @@
+[
+     {
+                    "website": "https:\/\/play.google.com\/store\/apps\/details?id=com.necta.speaksync",
+                    "collected_count": 1,
+                    "description": "AI voice translation for 70+ languages.",
+                    "handle": "speaksync",
+                    "id": 9556,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170373331939904623.jpg",
+                    "month_visited_count": 0,
+                    "name": "speakSync",
+                    "user_collected": 0,
+                    "what_is_summary": "AI voice translation for 70+ languages.",
+                    "traffic": {
+                        "top_region": "US",
+                        "top_region_value": 0.17160477109681022
+                    },
+                    "categories": [
+                        {
+                            "handle": "text-to-speech",
+                            "name": "Text-to-Speech",
+                            "tool_count": 147
+                        },
+                        {
+                            "handle": "speech-to-text",
+                            "name": "Speech-to-Text",
+                            "tool_count": 174
+                        },
+                        {
+                            "handle": "ai-voice-changer",
+                            "name": "AI Voice Changer",
+                            "tool_count": 27
+                        },
+                        {
+                            "handle": "ai-speech-recognition",
+                            "name": "AI Speech Recognition",
+                            "tool_count": 189
+                        },
+                        {
+                            "handle": "ai-speech-synthesis",
+                            "name": "AI Speech Synthesis",
+                            "tool_count": 177
+                        },
+                        {
+                            "handle": "ai-voice-assistants",
+                            "name": "AI Voice Assistants",
+                            "tool_count": 168
+                        },
+                        {
+                            "handle": "advertising-assistant",
+                            "name": "AI Advertising Assistant",
+                            "tool_count": 1955
+                        },
+                        {
+                            "handle": "translate",
+                            "name": "Translate",
+                            "tool_count": 155
+                        }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 2
+                }
+]
