@@ -1,0 +1,44 @@
+{ "website": "https:\/\/voxify.ai",
+                    "collected_count": 4,
+                    "description": "Transform text to speech effortlessly with our AI voice generator.",
+                    "handle": "voxify",
+                    "id": 9561,
+                    "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170384261323666540.jpg",
+                    "month_visited_count": 26094,
+                    "name": "Voxify",
+                    "user_collected": 0,
+                    "what_is_summary": "Transform text to speech effortlessly with our AI voice generator.",
+                    "traffic": {
+                        "top_region": "TR",
+                        "top_region_value": 0.06465232965749472
+                    },
+                    "categories": [
+                        {
+                            "handle": "text-to-speech",
+                            "name": "Text-to-Speech",
+                            "tool_count": 147
+                        }
+                    ],
+                    "social_media":[
+                      {"name":"Twitter",
+                        "handle":"aslkdjasd"
+                      },
+                      {"name":"Facebook",
+                        "handle":"aslkdjasd"
+                      },
+                      {"name":"Youtube",
+                        "handle":"aslkdjasd"
+                      },
+                      
+                      {"name":"LinkedIn",
+                        "handle":"aslkdjasd"
+                      },
+                      
+                      {"name":"Discord",
+                        "handle":"aslkdjasd"
+                      }
+                    ],
+                    "is_recommend_now": 0,
+                    "is_noticeable": 1
+}
+  
