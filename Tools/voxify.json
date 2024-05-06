@@ -21,21 +21,21 @@
                     ],
                     "social_media":[
                       {"name":"Twitter",
-                        "handle":"aslkdjasd"
+                        "handle":"https://twitter.com/?lang=en"
                       },
                       {"name":"Facebook",
-                        "handle":"aslkdjasd"
+                        "handle":"https://www.facebook.com/"
                       },
                       {"name":"Youtube",
-                        "handle":"aslkdjasd"
+                        "handle":"https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg"
                       },
                       
                       {"name":"LinkedIn",
-                        "handle":"aslkdjasd"
+                        "handle":"https://www.linkedin.com/"
                       },
                       
                       {"name":"Discord",
-                        "handle":"aslkdjasd"
+                        "handle":"https://discord.com/"
                       }
                     ],
                     "is_recommend_now": 0,
