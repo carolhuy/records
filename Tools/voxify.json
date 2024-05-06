@@ -20,21 +20,26 @@
                         }
                     ],
                     "socials":[
-                      {"name":"Twitter",
+                      {
+                        "name":"Twitter",
                         "handle":"https://twitter.com/?lang=en"
                       },
-                      {"name":"Facebook",
+                      {
+                        "name":"Facebook",
                         "handle":"https://www.facebook.com/"
                       },
-                      {"name":"Youtube",
+                      {
+                        "name":"Youtube",
                         "handle":"https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg"
                       },
                       
-                      {"name":"LinkedIn",
+                      {
+                        "name":"LinkedIn",
                         "handle":"https://www.linkedin.com/"
                       },
                       
-                      {"name":"Discord",
+                      {
+                        "name":"Discord",
                         "handle":"https://discord.com/"
                       }
                     ],
