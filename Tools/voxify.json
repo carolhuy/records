@@ -19,6 +19,11 @@
                             "handle": "text-to-speech",
                             "name": "Text-to-Speech",
                             "tool_count": 147
+                        },
+                       {
+                            "handle": "text-to-speech1",
+                            "name": "Text-to-Speech1",
+                            "tool_count": 147
                         }
                     ],
                     "socials":[
