@@ -26,6 +26,16 @@
                             "tool_count": 147
                         }
                     ],
+                      "videos": [
+                        {
+                            "title": "Sample Video 1",
+                            "link": "https://www.youtube.com/watch?v=1ukSR1GRtMU"
+                        },
+                       {
+                            "title": "Sample Video 2",
+                            "link": "https://www.youtube.com/watch?v=1ukSR1GRtMU"
+                        }
+                    ],
                     "socials":[
                       {
                         "name":"Twitter",
