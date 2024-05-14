@@ -29,11 +29,23 @@
                       "videos": [
                         {
                             "title": "Sample Video 1",
-                            "link": "https://www.youtube.com/watch?v=1ukSR1GRtMU"
+                            "link": "https://www.youtube.com/embed/1ukSR1GRtMU?si=n1aJU2b2Q6VWXB3g"
                         },
                        {
                             "title": "Sample Video 2",
-                            "link": "https://www.youtube.com/watch?v=1ukSR1GRtMU"
+                            "link": "https://www.youtube.com/embed/1ukSR1GRtMU?si=n1aJU2b2Q6VWXB3g"
+                        },
+                        {
+                            "title": "Sample Video 3",
+                            "link": "https://www.youtube.com/embed/1ukSR1GRtMU?si=n1aJU2b2Q6VWXB3g"
+                        },
+                        {
+                            "title": "Sample Video 4",
+                            "link": "https://www.youtube.com/embed/1ukSR1GRtMU?si=n1aJU2b2Q6VWXB3g"
+                        },
+                        {
+                            "title": "Sample Video 5",
+                            "link": "https://www.youtube.com/embed/1ukSR1GRtMU?si=n1aJU2b2Q6VWXB3g"
                         }
                     ],
                     "socials":[
