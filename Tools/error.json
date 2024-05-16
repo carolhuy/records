@@ -1,0 +1,38 @@
+{ "website": "https:\/\/voxify.ai",
+          "collected_count": 4,
+          "description": "error",
+          "handle": "error",
+          "id": 9561,
+          "image": "https:\/\/nav-station.oss-accelerate.aliyuncs.com\/170384261323666540.jpg",
+          "month_visited_count": 26094,
+          "name": "error",
+          "user_collected": 0,
+          "what_is_summary": "Testing in error cases ",
+          "key_features": "ERROR",
+          "use_cases":"ERROR",
+          "traffic": {
+              "top_region": "Us",
+              "top_region_value": 0.234243
+          },
+          "categories": [
+              {
+                  "handle": "test",
+                  "name": "Test",
+                  "tool_count": 147
+              }
+          ],
+            "videos": [
+              {
+                  "title": "Sample Video 1",
+                  "link": "https://www.youtube.com/embed/1ukSR1GRtMU?si=n1aJU2b2Q6VWXB3g"
+              }
+          ],
+          "socials":[
+            {
+              "name":"Twitter",
+              "handle":"https://twitter.com/?lang=en"
+            }
+          ],
+          "is_recommend_now": 0,
+          "is_noticeable": 1
+}
