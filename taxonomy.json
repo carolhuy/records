@@ -370,14 +370,14 @@
             "URL": "/company/company1"
         },
         {
-            "id": "company2",
+            "id": "company_2",
             "image_url": "",
             "name": "Company 2",
             "type": "company",
             "URL": "/company/company2"
         },
             {
-            "id": "company3",
+            "id": "company_3",
             "image_url": "",
             "name": "Company 3",
             "type": "company",
@@ -386,21 +386,21 @@
     ],
     "tag_list": [
         {
-            "id": "tag1",
+            "id": "tag_1",
             "image_url": "",
             "name": "Tag1",
             "type": "tag",
             "URL": "/tag/tag1"
         },
         {
-            "id": "tag2",
+            "id": "tag_2",
             "image_url": "",
             "name": "Tag 2",
             "type": "tag",
             "URL": "/tag/tag2"
         },
         {
-            "id": "tag3",
+            "id": "tag_3",
             "image_url": "",
             "name": "tag 3",
             "type": "tag",
