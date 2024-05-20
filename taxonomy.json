@@ -4,7 +4,7 @@
     "last_updated_at": "",
     "category_list": [
         {
-            "id": "ai-advertising-assistant",
+            "id": "advertising-assistant",
             "image_url": "",
             "name": "AI Advertising Assistant",
             "type": "category",
@@ -18,7 +18,7 @@
             "URL": "/category/ai-analytics-assistant"
         },
         {
-            "id": "ai-anime-art",
+            "id": "ai-anime-ai-art",
             "image_url": "",
             "name": "AI Anime Art",
             "type": "category",
@@ -88,7 +88,7 @@
             "URL": "/category/ai-design-generator"
         },
         {
-            "id": "ai-detector",
+            "id": "ai-detector-1",
             "image_url": "",
             "name": "AI Detector",
             "type": "category",
@@ -263,6 +263,13 @@
             "URL": "/category/copywriting"
         },
         {
+            "id": "design-assistant",
+            "image_url": "",
+            "name": "Design Assistant",
+            "type": "category",
+            "URL": "/category/design-assistant"
+        },
+        {
             "id": "image-to-image",
             "image_url": "",
             "name": "Image to Image",
@@ -319,25 +326,11 @@
             "URL": "/category/text-to-image"
         },
         {
-            "id": "text-to-music",
-            "image_url": "",
-            "name": "Text to music",
-            "type": "category",
-            "URL": "/category/text-to-music"
-        },
-        {
             "id": "text-to-speech",
             "image_url": "",
             "name": "Text to Speech",
             "type": "category",
             "URL": "/category/text-to-speech"
-        },
-        {
-            "id": "text-to-video",
-            "image_url": "",
-            "name": "Text to Video",
-            "type": "category",
-            "URL": "/category/text-to-video"
         },
         {
             "id": "translate",
@@ -352,6 +345,13 @@
             "name": "Web3",
             "type": "category",
             "URL": "/category/web3"
+        },
+        {
+            "id": "writing-assistants",
+            "image_url": "",
+            "name": "Writing Assistants",
+            "type": "category",
+            "URL": "/category/writing-assistants"
         },
         {
             "id": "other",
