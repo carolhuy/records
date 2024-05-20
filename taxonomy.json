@@ -4,256 +4,256 @@
     "last_updated_at": "",
     "category_list": [
         {
-            "id": "ai_advertising_assistant",
+            "id": "ai-advertising-assistant",
             "image_url": "",
             "name": "AI Advertising Assistant",
             "type": "category",
-            "URL": "/category/ai_advertising_assistant"
+            "URL": "/category/ai-advertising-assistant"
         },
         {
-            "id": "ai_analytics_assistant",
+            "id": "ai-analytics-assistant",
             "image_url": "",
             "name": "AI Analytics Assistant",
             "type": "category",
-            "URL": "/category/ai_analytics_assistant"
+            "URL": "/category/ai-analytics-assistant"
         },
         {
-            "id": "ai_anime_art",
+            "id": "ai-anime-art",
             "image_url": "",
             "name": "AI Anime Art",
             "type": "category",
-            "URL": "/category/ai_anime_art"
+            "URL": "/category/ai-anime-art"
         },
         {
-            "id": "ai_anime_cartoon_generator",
+            "id": "ai-anime-cartoon-generator",
             "image_url": "",
             "name": "AI Anime & Cartoon Generator",
             "type": "category",
-            "URL": "/category/ai_anime_cartoon_generator"
+            "URL": "/category/ai-anime-cartoon-generator"
         },
         {
-            "id": "ai_app_builder",
+            "id": "ai-app-builder",
             "image_url": "",
             "name": "AI App Builder",
             "type": "category",
-            "URL": "/category/ai_app_builder"
+            "URL": "/category/ai-app-builder"
         },
         {
-            "id": "ai_art_generator",
+            "id": "ai-art-generator",
             "image_url": "",
             "name": "AI Art Generator",
             "type": "category",
-            "URL": "/category/ai_art_generator"
+            "URL": "/category/ai-art-generator"
         },
         {
-            "id": "ai_audio_enhancer",
+            "id": "ai-audio-enhancer",
             "image_url": "",
             "name": "AI Audio Enhancer",
             "type": "category",
-            "URL": "/category/ai_audio_enhancer"
+            "URL": "/category/ai-audio-enhancer"
         },
         {
-            "id": "ai_avatar_generator",
+            "id": "ai-avatar-generator",
             "image_url": "",
             "name": "AI Avatar Generator",
             "type": "category",
-            "URL": "/category/ai_avatar_generator"
+            "URL": "/category/ai-avatar-generator"
         },
         {
-            "id": "ai_book_writing",
+            "id": "ai-book-writing",
             "image_url": "",
             "name": "AI Book Writing",
             "type": "category",
-            "URL": "/category/ai_book_writing"
+            "URL": "/category/ai-book-writing"
         },
         {
-            "id": "ai_chatbot",
+            "id": "ai-chatbot",
             "image_url": "",
             "name": "AI Chatbot",
             "type": "category",
-            "URL": "/category/ai_chatbot"
+            "URL": "/category/ai-chatbot"
         },
         {
-            "id": "ai_content_generator",
+            "id": "ai-content-generator",
             "image_url": "",
             "name": "AI Content Generator",
             "type": "category",
-            "URL": "/category/ai_content_generator"
+            "URL": "/category/ai-content-generator"
         },
         {
-            "id": "ai_design_generator",
+            "id": "ai-design-generator",
             "image_url": "",
             "name": "AI Design Generator",
             "type": "category",
-            "URL": "/category/ai_design_generator"
+            "URL": "/category/ai-design-generator"
         },
         {
-            "id": "ai_detector",
+            "id": "ai-detector",
             "image_url": "",
             "name": "AI Detector",
             "type": "category",
-            "URL": "/category/ai_detector"
+            "URL": "/category/ai-detector"
         },
         {
-            "id": "ai_developer_tools",
+            "id": "ai-developer-tools",
             "image_url": "",
             "name": "AI Developer Tools",
             "type": "category",
-            "URL": "/category/ai_developer_tools"
+            "URL": "/category/ai-developer-tools"
         },
         {
-            "id": "ai_document_extraction",
+            "id": "ai-document-extraction",
             "image_url": "",
             "name": "AI Document Extraction",
             "type": "category",
-            "URL": "/category/ai_document_extraction"
+            "URL": "/category/ai-document-extraction"
         },
         {
-            "id": "ai_email_assistant",
+            "id": "ai-email-assistant",
             "image_url": "",
             "name": "AI Email Assistant",
             "type": "category",
-            "URL": "/category/ai_email_assistant"
+            "URL": "/category/ai-email-assistant"
         },
         {
-            "id": "ai_face_swap_generator",
+            "id": "ai-face-swap-generator",
             "image_url": "",
             "name": "AI Face Swap Generator",
             "type": "category",
-            "URL": "/category/ai_face_swap_generator"
+            "URL": "/category/ai-face-swap-generator"
         },
         {
-            "id": "ai_graphic_design",
+            "id": "ai-graphic-design",
             "image_url": "",
             "name": "AI Graphic Design",
             "type": "category",
-            "URL": "/category/ai_graphic_design"
+            "URL": "/category/ai-graphic-design"
         },
         {
-            "id": "ai_illustration_generator",
+            "id": "ai-illustration-generator",
             "image_url": "",
             "name": "AI Illustration Generator",
             "type": "category",
-            "URL": "/category/ai_illustration_generator"
+            "URL": "/category/ai-illustration-generator"
         },
         {
-            "id": "ai_image_enhancer",
+            "id": "ai-image-enhancer",
             "image_url": "",
             "name": "AI Image Enhancer",
             "type": "category",
-            "URL": "/category/ai_image_enhancer"
+            "URL": "/category/ai-image-enhancer"
         },
         {
-            "id": "ai_image_recognition",
+            "id": "ai-image-recognition",
             "image_url": "",
             "name": "AI Image Recognition",
             "type": "category",
-            "URL": "/category/ai_image_recognition"
+            "URL": "/category/ai-image-recognition"
         },
         {
-            "id": "ai_manga_comic",
+            "id": "ai-manga-comic",
             "image_url": "",
             "name": "AI Manga & Comic",
             "type": "category",
-            "URL": "/category/ai_manga_comic"
+            "URL": "/category/ai-manga-comic"
         },
         {
-            "id": "ai_photo_enhancer",
+            "id": "ai-photo-enhancer",
             "image_url": "",
             "name": "AI Photo Enhancer",
             "type": "category",
-            "URL": "/category/ai_photo_enhancer"
+            "URL": "/category/ai-photo-enhancer"
         },
         {
-            "id": "ai_photo_image_generator",
+            "id": "ai-photo-image-generator",
             "image_url": "",
             "name": "AI Photo & Image Generator",
             "type": "category",
-            "URL": "/category/ai_photo_image_generator"
+            "URL": "/category/ai-photo-image-generator"
         },
         {
-            "id": "ai_product_description_generator",
+            "id": "ai-product-description-generator",
             "image_url": "",
             "name": "AI Product Description Generator",
             "type": "category",
-            "URL": "/category/ai_product_description_generator"
+            "URL": "/category/ai-product-description-generator"
         },
         {
-            "id": "ai_profile_picture_generator",
+            "id": "ai-profile-picture-generator",
             "image_url": "",
             "name": "AI Profile Picture Generator",
             "type": "category",
-            "URL": "/category/ai_profile_picture_generator"
+            "URL": "/category/ai-profile-picture-generator"
         },
         {
-            "id": "ai_reply_assistant",
+            "id": "ai-reply-assistant",
             "image_url": "",
             "name": "AI Reply Assistant",
             "type": "category",
-            "URL": "/category/ai_reply_assistant"
+            "URL": "/category/ai-reply-assistant"
         },
         {
-            "id": "ai_response_generator",
+            "id": "ai-response-generator",
             "image_url": "",
             "name": "AI Response Generator",
             "type": "category",
-            "URL": "/category/ai_response_generator"
+            "URL": "/category/ai-response-generator"
         },
         {
-            "id": "ai_selfie_portrait",
+            "id": "ai-selfie-portrait",
             "image_url": "",
             "name": "AI Selfie & Portrait",
             "type": "category",
-            "URL": "/category/ai_selfie_portrait"
+            "URL": "/category/ai-selfie-portrait"
         },
         {
-            "id": "ai_speech_recognition",
+            "id": "ai-speech-recognition",
             "image_url": "",
             "name": "AI Speech Recognition",
             "type": "category",
-            "URL": "/category/ai_speech_recogniton"
+            "URL": "/category/ai-speech-recogniton"
         },
         {
-            "id": "ai_speech_synthesis",
+            "id": "ai-speech-synthesis",
             "image_url": "",
             "name": "AI Speech Synthesis",
             "type": "category",
-            "URL": "/category/ai_speech_synthesis"
+            "URL": "/category/ai-speech-synthesis"
         },
         {
-            "id": "ai_story_writing",
+            "id": "ai-story-writing",
             "image_url": "",
             "name": "AI Story Writing",
             "type": "category",
-            "URL": "/category/ai_story_writing"
+            "URL": "/category/ai-story-writing"
         },
         {
-            "id": "ai_tools_directory",
+            "id": "ai-tools-directory",
             "image_url": "",
             "name": "AI Tools Directory",
             "type": "category",
-            "URL": "/category/ai_tools_directory"
+            "URL": "/category/ai-tools-directory"
         },
         {
-            "id": "ai_video_enhancer",
+            "id": "ai-video-enhancer",
             "image_url": "",
             "name": "AI Video Enhancer",
             "type": "category",
-            "URL": "/category/ai_video_enhancer"
+            "URL": "/category/ai-video-enhancer"
         },
         {
-            "id": "ai_voice_assistants",
+            "id": "ai-voice-assistants",
             "image_url": "",
             "name": "AI Voice Assistants",
             "type": "category",
-            "URL": "/category/ai_voice_assistants"
+            "URL": "/category/ai-voice-assistants"
         },
         {
-            "id": "ai_voice_changer",
+            "id": "ai-voice-changer",
             "image_url": "",
             "name": "AI Voice Changer",
             "type": "category",
-            "URL": "/category/ai_voice_changer"
+            "URL": "/category/ai-voice-changer"
         },
         {
             "id": "copywriting",
@@ -263,18 +263,18 @@
             "URL": "/category/copywriting"
         },
         {
-            "id": "image_to_image",
+            "id": "image-to-image",
             "image_url": "",
             "name": "Image to Image",
             "type": "category",
-            "URL": "/category/image_to_image"
+            "URL": "/category/image-to-image"
         },
         {
-            "id": "large_language_models_(llms)",
+            "id": "large-language-models-(llms)",
             "image_url": "",
             "name": "Large Language Models (LLMs)",
             "type": "category",
-            "URL": "/category/large_language_models_(llms)"
+            "URL": "/category/large-language-models-(llms)"
         },
         {
             "id": "newsletter",
@@ -284,60 +284,60 @@
             "URL": "/category/newsletter"
         },
         {
-            "id": "photo_image_editor",
+            "id": "photo-image-editor",
             "image_url": "",
             "name": "Photo & Image Editor",
             "type": "category",
-            "URL": "/category/photo_image_editor"
+            "URL": "/category/photo-image-editor"
         },
         {
-            "id": "prompt_1",
+            "id": "prompt-1",
             "image_url": "",
             "name": "Prompt",
             "type": "category",
-            "URL": "/category/prompt_1"
+            "URL": "/category/prompt-1"
         },
         {
-            "id": "sales_assistant",
+            "id": "sales-assistant",
             "image_url": "",
             "name": "Sales Assistant",
             "type": "category",
-            "URL": "/category/sales_assistant"
+            "URL": "/category/sales-assistant"
         },
         {
-            "id": "speech_to_text",
+            "id": "speech-to-text",
             "image_url": "",
             "name": "Speech To Text",
             "type": "category",
-            "URL": "/category/speech_to_text"
+            "URL": "/category/speech-to-text"
         },
         {
-            "id": "text_to_image",
+            "id": "text-to-image",
             "image_url": "",
             "name": "Text to Image",
             "type": "category",
-            "URL": "/category/text_to_image"
+            "URL": "/category/text-to-image"
         },
         {
-            "id": "text_to_music",
+            "id": "text-to-music",
             "image_url": "",
             "name": "Text to music",
             "type": "category",
-            "URL": "/category/text_to_music"
+            "URL": "/category/text-to-music"
         },
         {
-            "id": "text_to_speech",
+            "id": "text-to-speech",
             "image_url": "",
             "name": "Text to Speech",
             "type": "category",
-            "URL": "/category/text_to_speech"
+            "URL": "/category/text-to-speech"
         },
         {
-            "id": "text_to_video",
+            "id": "text-to-video",
             "image_url": "",
             "name": "Text to Video",
             "type": "category",
-            "URL": "/category/text_to_video"
+            "URL": "/category/text-to-video"
         },
         {
             "id": "translate",
@@ -363,48 +363,48 @@
     ],
     "company_list": [
         {
-            "id": "company_1",
+            "id": "company-1",
             "image_url": "",
             "name": "Company 1",
             "type": "company",
-            "URL": "/company/company1"
+            "URL": "/company/company-1"
         },
         {
-            "id": "company_2",
+            "id": "company-2",
             "image_url": "",
             "name": "Company 2",
             "type": "company",
-            "URL": "/company/company2"
+            "URL": "/company/company-2"
         },
             {
-            "id": "company_3",
+            "id": "company-3",
             "image_url": "",
             "name": "Company 3",
             "type": "company",
-            "URL": "/company/company3"
+            "URL": "/company/company-3"
         }
     ],
     "tag_list": [
         {
-            "id": "tag_1",
+            "id": "tag-1",
             "image_url": "",
-            "name": "Tag1",
+            "name": "Tag 1",
             "type": "tag",
-            "URL": "/tag/tag1"
+            "URL": "/tag/tag-1"
         },
         {
-            "id": "tag_2",
+            "id": "tag-2",
             "image_url": "",
             "name": "Tag 2",
             "type": "tag",
-            "URL": "/tag/tag2"
+            "URL": "/tag/tag-2"
         },
         {
-            "id": "tag_3",
+            "id": "tag-3",
             "image_url": "",
-            "name": "tag 3",
+            "name": "Tag 3",
             "type": "tag",
-            "URL": "/tag/tag3"
+            "URL": "/tag/tag-3"
         }
     ]
 }
