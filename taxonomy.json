@@ -2,7 +2,7 @@
     "count": 56,
     "created_at": "",
     "last_updated_at": "",
-    "navigation_list": [
+    "category_list": [
         {
             "id": "ai_advertising_assistant",
             "image_url": "",
@@ -359,6 +359,52 @@
             "name": "Other",
             "type": "category",
             "URL": "/category/other"
+        }
+    ],
+    "company_list": [
+        {
+            "id": "company_1",
+            "image_url": "",
+            "name": "Company 1",
+            "type": "company",
+            "URL": "/company/company1"
+        },
+        {
+            "id": "company2",
+            "image_url": "",
+            "name": "Company 2",
+            "type": "company",
+            "URL": "/company/company2"
+        },
+            {
+            "id": "company3",
+            "image_url": "",
+            "name": "Company 3",
+            "type": "company",
+            "URL": "/company/company3"
+        },
+    ],
+    "tag_list": [
+        {
+            "id": "tag1",
+            "image_url": "",
+            "name": "Tag1",
+            "type": "tag",
+            "URL": "/tag/tag1"
+        },
+        {
+            "id": "tag2",
+            "image_url": "",
+            "name": "Tag 2",
+            "type": "tag",
+            "URL": "/tag/tag2"
+        },
+        {
+            "id": "tag3",
+            "image_url": "",
+            "name": "tag 3",
+            "type": "tag",
+            "URL": "/tag/tag3"
         }
     ]
 }
