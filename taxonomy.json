@@ -8,7 +8,7 @@
             "image_url": "",
             "name": "AI Advertising Assistant",
             "type": "category",
-            "URL": "/category/ai-advertising-assistant"
+            "URL": "/category/advertising-assistant"
         },
         {
             "id": "ai-analytics-assistant",
@@ -22,7 +22,7 @@
             "image_url": "",
             "name": "AI Anime Art",
             "type": "category",
-            "URL": "/category/ai-anime-art"
+            "URL": "/category/ai-anime-ai-art"
         },
         {
             "id": "ai-anime-cartoon-generator",
@@ -92,7 +92,7 @@
             "image_url": "",
             "name": "AI Detector",
             "type": "category",
-            "URL": "/category/ai-detector"
+            "URL": "/category/ai-detector-1"
         },
         {
             "id": "ai-developer-tools",
