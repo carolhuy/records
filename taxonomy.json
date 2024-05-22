@@ -5,21 +5,21 @@
     "category_list": [
         {
             "id": "advertising-assistant",
-            "image_url": "",
+            "image_url": "https://img.icons8.com/?size=100&id=18901&format=png&color=000000",
             "name": "AI Advertising Assistant",
             "type": "category",
             "URL": "/category/advertising-assistant"
         },
         {
             "id": "ai-analytics-assistant",
-            "image_url": "",
+            "image_url": "https://img.icons8.com/?size=100&id=18901&format=png&color=000000",
             "name": "AI Analytics Assistant",
             "type": "category",
             "URL": "/category/ai-analytics-assistant"
         },
         {
             "id": "ai-anime-ai-art",
-            "image_url": "",
+            "image_url": "https://img.icons8.com/?size=100&id=18901&format=png&color=000000",
             "name": "AI Anime Art",
             "type": "category",
             "URL": "/category/ai-anime-ai-art"
