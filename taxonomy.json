@@ -5,21 +5,21 @@
     "category_list": [
         {
             "id": "advertising-assistant",
-            "image_url": "https:\/\/img.icons8.com\/?size=100&id=gRjjzf4lY4jJ&format=png&color=000000",
+            "image_url": "https:\/\/img.icons8.com\/emoji\/48\/small-airplane.png",
             "name": "AI Advertising Assistant",
             "type": "category",
             "URL": "/category/advertising-assistant"
         },
         {
             "id": "ai-analytics-assistant",
-            "image_url": "https:\/\/img.icons8.com\/?size=100&id=gRjjzf4lY4jJ&format=png&color=000000",
+            "image_url": "https:\/\/img.icons8.com\/emoji\/48\/small-airplane.png",
             "name": "AI Analytics Assistant",
             "type": "category",
             "URL": "/category/ai-analytics-assistant"
         },
         {
             "id": "ai-anime-ai-art",
-            "image_url": "https:\/\/img.icons8.com\/?size=100&id=gRjjzf4lY4jJ&format=png&color=000000",
+            "image_url": "https:\/\/img.icons8.com\/emoji\/48\/small-airplane.png",
             "name": "AI Anime Art",
             "type": "category",
             "URL": "/category/ai-anime-ai-art"
@@ -364,21 +364,21 @@
     "company_list": [
         {
             "id": "company-1",
-            "image_url": "",
+            "image_url": "https:\/\/img.icons8.com\/color\/48\/birthday-girl-with-cake-skin-type-4.png",
             "name": "Company 1",
             "type": "company",
             "URL": "/company/company-1"
         },
         {
             "id": "company-2",
-            "image_url": "",
+            "image_url": "https:\/\/img.icons8.com\/color\/48\/man-winner-skin-type-2.png",
             "name": "Company 2",
             "type": "company",
             "URL": "/company/company-2"
         },
             {
             "id": "company-3",
-            "image_url": "",
+            "image_url": "https:\/\/img.icons8.com\/color\/48\/man-with-money-skin-type-1.png",
             "name": "Company 3",
             "type": "company",
             "URL": "/company/company-3"
@@ -387,21 +387,21 @@
     "tag_list": [
         {
             "id": "tag-1",
-            "image_url": "",
+            "image_url": "https:\/\/img.icons8.com\/color\/48\/birthday-girl-with-cake-skin-type-4.png",
             "name": "Tag 1",
             "type": "tag",
             "URL": "/tag/tag-1"
         },
         {
             "id": "tag-2",
-            "image_url": "",
+            "image_url": "https:\/\/img.icons8.com\/color\/48\/man-winner-skin-type-2.png",
             "name": "Tag 2",
             "type": "tag",
             "URL": "/tag/tag-2"
         },
         {
             "id": "tag-3",
-            "image_url": "",
+            "image_url": "https:\/\/img.icons8.com\/color\/48\/man-with-money-skin-type-1.png",
             "name": "Tag 3",
             "type": "tag",
             "URL": "/tag/tag-3"
