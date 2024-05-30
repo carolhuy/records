@@ -382,13 +382,6 @@
             "name": "Company 3",
             "type": "company",
             "URL": "/company/company-3"
-        },
-         {
-            "id": "company-4",
-            "image_url": "https:\/\/img.icons8.com\/color\/48\/man-with-money-skin-type-1.png",
-            "name": "Company 4",
-            "type": "company",
-            "URL": "/company/company-4"
         }
     ],
     "tag_list": [
